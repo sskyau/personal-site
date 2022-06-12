@@ -3184,14 +3184,14 @@ input, select, textarea {
 
 		/* Poptrox */
 
-			.poptrox-popup {
+			/* .poptrox-popup {
 				border-radius: 0;
-			}
+			} */
 
-				.poptrox-popup .nav-next:before,
+				/* .poptrox-popup .nav-next:before,
 				.poptrox-popup .nav-previous:before {
 					margin-top: -1em;
-				}
+				} */
 
 	}
 
