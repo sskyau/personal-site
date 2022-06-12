@@ -2073,7 +2073,7 @@ input, select, textarea {
 				border-radius: 0.35em;
 				border: solid 3px rgba(255, 255, 255, 0.5);
 				color: #fff;
-				content: 'Know more';
+				content: 'View';
 				display: inline-block;
 				font-size: 0.8em;
 				font-weight: 400;
@@ -2087,6 +2087,10 @@ input, select, textarea {
 				text-decoration: none;
 				top: 50%;
 				white-space: nowrap;
+			}
+
+			.image.fit.thumb:after{
+
 			}
 
 			.image.thumb:hover:after {
@@ -2959,7 +2963,7 @@ input, select, textarea {
 
 /* Touch */
 
-	body.is-touch .image.thumb:before {
+	/* body.is-touch .image.thumb:before {
 		opacity: 0.5 !important;
 	}
 
@@ -2970,13 +2974,13 @@ input, select, textarea {
 	body.is-touch #header {
 		background-attachment: scroll;
 		background-size: auto, cover;
-	}
+	} */
 
-	body.is-touch .poptrox-popup .nav-next,
-	body.is-touch .poptrox-popup .nav-previous,
-	body.is-touch .poptrox-popup .closer {
+	/* body.is-touch .poptrox-popup .nav-next, */
+	/* body.is-touch .poptrox-popup .nav-previous, */
+	/* body.is-touch .poptrox-popup .closer {
 		opacity: 1.0 !important;
-	}
+	} */
 
 /* XLarge */
 
