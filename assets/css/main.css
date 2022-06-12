@@ -2089,9 +2089,6 @@ input, select, textarea {
 				white-space: nowrap;
 			}
 
-			.image.fit.thumb:after{
-
-			}
 
 			.image.thumb:hover:after {
 				opacity: 1.0;
@@ -2963,7 +2960,7 @@ input, select, textarea {
 
 /* Touch */
 
-	/* body.is-touch .image.thumb:before {
+	body.is-touch .image.thumb:before {
 		opacity: 0.5 !important;
 	}
 
@@ -2980,7 +2977,7 @@ input, select, textarea {
 	/* body.is-touch .poptrox-popup .nav-previous, */
 	/* body.is-touch .poptrox-popup .closer {
 		opacity: 1.0 !important;
-	} */
+	}
 
 /* XLarge */
 
