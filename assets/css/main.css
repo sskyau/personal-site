@@ -2767,7 +2767,7 @@ input, select, textarea {
 		}
 	}
 
-	.poptrox-popup {
+	/* .poptrox-popup {
 		-moz-box-sizing: content-box;
 		-webkit-box-sizing: content-box;
 		-ms-box-sizing: content-box;
@@ -2778,9 +2778,9 @@ input, select, textarea {
 		box-shadow: 0 0.1em 0.15em 0 rgba(0, 0, 0, 0.15);
 		overflow: hidden;
 		padding-bottom: 3em;
-	}
+	} */
 
-		.poptrox-popup .loader {
+		/* .poptrox-popup .loader {
 			text-decoration: none;
 			-moz-animation: spin 1s linear infinite;
 			-webkit-animation: spin 1s linear infinite;
@@ -2794,9 +2794,9 @@ input, select, textarea {
 			position: absolute;
 			top: 50%;
 			width: 1em;
-		}
+		} */
 
-			.poptrox-popup .loader:before {
+			/* .poptrox-popup .loader:before {
 				-moz-osx-font-smoothing: grayscale;
 				-webkit-font-smoothing: antialiased;
 				display: inline-block;
@@ -2807,9 +2807,9 @@ input, select, textarea {
 				text-transform: none !important;
 				font-family: 'Font Awesome 5 Free';
 				font-weight: 900;
-			}
+			} */
 
-			.poptrox-popup .loader:before {
+			/* .poptrox-popup .loader:before {
 				content: '\f1ce';
 			}
 
@@ -2825,10 +2825,10 @@ input, select, textarea {
 			text-align: center;
 			width: 100%;
 			z-index: 1;
-		}
+		} */
 
-		.poptrox-popup .nav-next,
-		.poptrox-popup .nav-previous {
+		/* .poptrox-popup .nav-next, */
+		/* .poptrox-popup .nav-previous {
 			text-decoration: none;
 			-moz-transition: opacity 0.2s ease-in-out;
 			-webkit-transition: opacity 0.2s ease-in-out;
@@ -2842,9 +2842,9 @@ input, select, textarea {
 			position: absolute;
 			top: 0;
 			width: 50%;
-		}
+		} */
 
-			.poptrox-popup .nav-next:before,
+			/* .poptrox-popup .nav-next:before,
 			.poptrox-popup .nav-previous:before {
 				-moz-osx-font-smoothing: grayscale;
 				-webkit-font-smoothing: antialiased;
@@ -2956,7 +2956,7 @@ input, select, textarea {
 
 			.poptrox-popup:hover .closer:hover {
 				opacity: 1.0;
-			}
+			} */
 
 /* Touch */
 
